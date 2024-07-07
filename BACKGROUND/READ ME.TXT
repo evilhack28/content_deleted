@@ -1,0 +1,4 @@
+The file will be like this a folder with the of the world, and after the rsg file and the ptx with the json inside for an example it will be 
+EGYPT/1.0.1/DelayLoad_Background_Egypt_Common.rsg (common is for animation file)
+EGYPT/1.0.1/DelayLoad_Background_Egypt_1536.rsg (1536 more the number is higher more the quality is better)                                                                                                                                                                                
+                                                                                                                                                                                           
