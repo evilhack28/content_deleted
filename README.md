@@ -1,4 +1,5 @@
-# dynamic.rsb.smf
-This will repertory the dynamic.rsb.smf of plants vs zombie 2 Chinese 
+all deleted content of 植物大战僵尸2 will be upload here 
 
-Please if you find any old version of the game after the 2.2.7 contact evilhack28 or randomgirl3917 on discord thanks
+if you find any picture even in bad quality contact evilhack28 on discord or randomgirl3917
+
+
